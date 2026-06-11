@@ -11,9 +11,9 @@
 - [Google PDE](https://www.credly.com/badges/304e0fe7-03c4-41c6-aee0-14ce11d0cd3e/public_url)
 
 ### Coding
-- SQL - [Leetcode](https://leetcode.com/problem-list/database/) | [dataexpert](https://github.com/SoongGuanLeong/de-sql-trino-practice/tree/c6f924a4cb2bd7278f789d530a43f5fd3b10263f)
-- Pyspark - [stratascratch](https://platform.stratascratch.com/coding?code_type=6&access=free&page=1), [zillacode](https://github.com/SoongGuanLeong/databricks_bootcamp_followalong/tree/main/spark_questions/Zillacode)
-- Others (python, pandas) - [leetcode](https://leetcode.com/u/SoongGuanLeong/), [neetcode](https://neetcode.io/practice/practice/neetcode150)
+- SQL - [Leetcode](https://leetcode.com/problem-list/database/) - [photo](docs/img/leetcode.png) | [dataexpert](https://github.com/SoongGuanLeong/de-sql-trino-practice/tree/c6f924a4cb2bd7278f789d530a43f5fd3b10263f) - All solved
+- Pyspark - [stratascratch](https://platform.stratascratch.com/coding?code_type=6&access=free&page=1) - [photo](docs/img/stratascratch.png) | [zillacode](https://github.com/SoongGuanLeong/databricks_bootcamp_followalong/tree/main/spark_questions/Zillacode) - All solved
+- Others (python, pandas) - [leetcode](https://leetcode.com/u/SoongGuanLeong/) | [neetcode](https://neetcode.io/practice/practice/neetcode150) - [photo](docs/img/neetcode.png)
 
 ### Courses / Certificates
 - dataexpert.io - [data engineering Boot Camp: Community Edition](https://www.dataexpert.io/certification/soongguanleong/yt-bootcamp-completion) | [notes](https://github.com/SoongGuanLeong/de-community-edition-notes)
